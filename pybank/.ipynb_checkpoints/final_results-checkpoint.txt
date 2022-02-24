@@ -1,0 +1,4 @@
+There are a total of 86 months within the budget data. 
+The net total amount of Profit/Losses over the entire period was 38382578
+The average of the changes in the Profits and Losses over the entire period was -2315.12,
+The greatest increase in Profits over the entire period was 1926159 in Feb-2012. The greatest decrease in Losses over the entire period was -2196167 in Sep-2013.
